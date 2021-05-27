@@ -1,0 +1,3 @@
+[submodule "kaggel"]
+	path = kaggel
+	url = https://github.com/damiannmm/kaggle
